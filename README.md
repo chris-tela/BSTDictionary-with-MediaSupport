@@ -1,6 +1,6 @@
 **Project Overview:**
 
-This project implements an ordered dictionary using a Binary Search Tree to store and manipulate information efficiently. The primary goal is to create a file-explorer-like process where files are organized and sorted based on their file types (e.g., .txt, .gif, .wav, etc.). This system allows users to view, manage, and "play" supported files directly within the console.
+This project implements an ordered dictionary using a Binary Search Tree to store and manipulate information efficiently. The primary goal is to create a file-explorer-like process where files are organized and sorted based on their file types (e.g., .txt, .gif, .wav, etc.). This system allows users to view, manage, and "play" supported files directly within the console. This project was completed in Fall 2024.
 
 **Features:**
 
